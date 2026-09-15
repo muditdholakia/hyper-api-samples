@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original source: [tableau/hyper-api-samples](https://github.com/tableau/hyper-api-samples). See [curation purpose and setup](CURATOR_README.md) and [security guidance](CURATOR_SECURITY.md). Upstream authorship and license are retained.
+
 <img src="https://cdns.tblsft.com/sites/default/files/blog/hyper_logo_1.jpg" width="70" height="70"><img src="https://cdns.tblsft.com/sites/default/files/blog/hyper_logo_1.jpg" width="70" height="70"><img src="https://cdns.tblsft.com/sites/default/files/blog/hyper_logo_1.jpg" width="70" height="70"><img src="https://cdns.tblsft.com/sites/default/files/blog/hyper_logo_1.jpg" width="70" height="70"><img src="https://cdns.tblsft.com/sites/default/files/blog/hyper_logo_1.jpg" width="70" height="70">
 
 

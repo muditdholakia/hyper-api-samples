@@ -4,3 +4,31 @@ updates:
     directory: /
     schedule:
       interval: weekly
+  - package-ecosystem: pip
+    directories:
+      - "/Community-Supported/clouddb-extractor"
+      - "/Community-Supported/flights-data-incremental-refresh"
+      - "/Community-Supported/git-to-hyper"
+      - "/Community-Supported/hyper-to-csv"
+      - "/Community-Supported/native-s3"
+      - "/Community-Supported/pandas-to-hyper"
+      - "/Community-Supported/publish-hyper"
+      - "/Community-Supported/publish-multi-table-hyper"
+      - "/Community-Supported/publish-multi-table-hyper-legacy"
+      - "/Community-Supported/s3-to-hyper"
+      - "/Community-Supported/tde-to-hyper"
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    groups:
+      learning-dependencies:
+        patterns: ["*"]
+  - package-ecosystem: nuget
+    directories:
+      - "/Tableau-Supported/DotNet"
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    groups:
+      learning-dependencies:
+        patterns: ["*"]
